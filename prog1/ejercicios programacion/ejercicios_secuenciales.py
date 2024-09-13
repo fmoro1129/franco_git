@@ -1,0 +1,5 @@
+num1=int(input("ingrese el numero:"))
+print (num1*2)
+print (num1*3)
+print (num1*4)
+print (num1*5)
